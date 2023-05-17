@@ -1,0 +1,3 @@
+kfp==1.8.20
+kfp-pipeline-spec==0.1.16
+kfp-server-api==1.8.5
